@@ -7,6 +7,13 @@
 body {
     font-family: Arial, sans-serif;
 }
+.card {
+    flex: 1;
+    background: white;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
 /* Resetowanie domyślnych stylów */
 * {
     margin: 0;
