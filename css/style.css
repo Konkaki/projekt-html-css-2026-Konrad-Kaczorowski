@@ -32,4 +32,6 @@ body {
         flex-direction: column;
         gap: 10px;
     }
+.project-card img {
+    display: none;
 }
