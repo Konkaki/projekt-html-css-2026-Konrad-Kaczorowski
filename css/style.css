@@ -119,6 +119,9 @@ header {
 @media (max-width: 768px) {
     body {
         font-size: 0.875rem;
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
     }
 
     h1 {
@@ -141,4 +144,8 @@ header {
         flex-direction: column;
         gap: 0.625rem;
     }
+        gap: 10px;
+    }
+.project-card img {
+    display: none;
 }
